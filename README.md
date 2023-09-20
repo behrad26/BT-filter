@@ -1,5 +1,3 @@
-
-https://github.com/behrad26/BT-filter/assets/112078003/a605ce77-c564-48f1-8314-ec10cd12a87a
 <div align="center"><h1> BT-filter </h1></div>
 <div align="center"><h3> a CLI python program to apply filters on images </h3></div>
 
